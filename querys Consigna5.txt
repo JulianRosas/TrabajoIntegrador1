@@ -1,0 +1,10 @@
+Caso 5: Tienda de electrónica
+● Mostrar la cantidad de productos totales en stock de una categoría junto con su
+cantidad de dinero recaudadas y su cantidad de ventas
+● Mostrar los 10 productos más vendidos junto con su venta mayor, menor, promedio y
+fechas de las mismas
+● Mostrar las últimas ventas del mes junto con el monto total recaudado.
+● Mostrar las tendencias de precios de un producto junto con las fechas de cambios
+en el mismo
+● Mostrar los 10 clientes con más compras en el último mes junto con la categoría de
+producto que más compraron y su cantidad de compras en el mes
